@@ -2,7 +2,8 @@
 	"name": "markdown-tags",
 	"displayName": "markdown-tags",
 	"description": "VSCode plugin to handle Markdown tags",
-	"version": "0.0.1",
+	"license": "MIT",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
